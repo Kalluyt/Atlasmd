@@ -67,18 +67,18 @@ Don't forget to change "charlist.js" and "setchar.js" insdide "Commands\Mods\"  
 
 
 global.charID0 = {
-    botName : "Atlas MD",
+    botName : "Andrew tate",
     botVideo : "https://graph.org/file/be37519c87e7eb1420897.mp4",
-    botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage4 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage5 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage6 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage1 : "https://i.imgur.com/aFpGb8y_d.webp",
+    botImage2 : "https://i.imgur.com/aFpGb8y_d.webp",
+    botImage3 : "https://i.imgur.com/aFpGb8y_d.webp",
+    botImage4 : "https://i.imgur.com/aFpGb8y_d.webp",
+    botImage5 : "https://i.imgur.com/aFpGb8y_d.webp",
+    botImage6 : "https://i.imgur.com/aFpGb8y_d.webp",
 }
 
 global.charID1 = {
-  botName : "Power MD",
+  botName : "Tristan tate",
   botVideo : "https://graph.org/file/b402e2d4718992187787b.mp4",
   botImage1 : "https://wallpapercave.com/wp/wp11253614.jpg",
   botImage2 : "https://wallpapercave.com/wp/wp9413488.jpg",
