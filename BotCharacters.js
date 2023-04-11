@@ -32,26 +32,26 @@
 
 /* ---Added Anime Character list---  /
 
- 0 --- Atlas MD
- 1 --- Power
- 2 --- Makima
- 3 --- Denji
- 4 --- Zero Two
- 5 --- Chika
- 6 --- Miku
- 7 --- Marin Kitagawa
- 8 --- Ayanokoji
- 9 --- Ruka
-10 --- Mizuhara
-11 --- Rem
-12 --- Sumi
-13 --- Kaguya
-14 --- Yumeko
-15 --- Kurumi
-16 --- Mai
-17 --- Yor
-18 --- Shinbou
-19 --- Eiko
+ 0 --- Andrew tate
+ 1 --- Tristan tate
+ 2 --- gojo
+ 3 --- minecraft
+ 4 --- uchiha madara
+ 5 --- Sasuke
+ 6 --- Luffy
+ 7 --- Blue lock
+ 8 --- Sukuna
+ 9 --- Phonk
+10 --- gta
+11 --- Benimaru Shinmon 
+12 --- Shinra Kasukabe
+13 --- Might guy
+14 --- Joker
+15 --- Saitama
+16 --- Andrew tate2
+17 --- Tristan tate 2
+18 --- Madara uchiha 2
+19 --- Sasuke uchiha 2
 
 Image Source: https://wall.alphacoders.com/
 Image Source: https://wallpapercave.com/
@@ -68,7 +68,7 @@ Don't forget to change "charlist.js" and "setchar.js" insdide "Commands\Mods\"  
 
 global.charID0 = {
     botName : "Atlas MD",
-    botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
+    botVideo : "https://graph.org/file/be37519c87e7eb1420897.mp4",
     botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
     botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
     botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
